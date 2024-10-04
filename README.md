@@ -1,4 +1,4 @@
 # MernStack-Demo
 This is My git repo.
 <br>
-Author - Lokesh Deore
+Author - Lokesh (sunny)
